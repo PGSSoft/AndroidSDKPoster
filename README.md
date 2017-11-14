@@ -4,7 +4,7 @@
 
 A wall poster with a detailed changelog of Android SDK versions 14-27, broken down into 30 categories. 
 
-![Made with love by PGS](https://github.com/pgssoft/AndroidSDKPoster/blob/master/media/biga0small.jpg)
+[![Click to see large preview](https://github.com/pgssoft/AndroidSDKPoster/blob/master/media/biga0small.jpg)](https://github.com/pgssoft/AndroidSDKPoster/blob/master/media/biga0.jpg)
 
 With this poster near your desk, you can tell in seconds which SDK step counter sensor was introduced, when the Camera2 API debuted, or what the second meaning of the "Daydream" codename is (apart from the VR framework). You can find and confirm all of that data in an online documentation, but it will take you minutes instead of seconds.
 
