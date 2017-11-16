@@ -14,16 +14,18 @@ The poster is provided for free by PGS Software, a Polish IT outsourcing company
 ## Download:
 
 
-PDF with 2 x A1 sheets, portrait (594 x 841mm)
+[PDF with 2 x A1 sheets, portrait (594 x 841mm)](https://github.com/pgssoft/AndroidSDKPoster/poster_current_a1.pdf)
 
-PDF with 1 x A0 sheet, landscape (1189 x 841mm)
+[PDF with 1 x A0 sheet, landscape (1189 x 841mm)](https://github.com/pgssoft/AndroidSDKPoster/poster_current_a0.pdf)
 
 
 ## Where to print?
 
 Any local print shop will do it for you. In Poland, it costs around $4-6 per A1 sheet.
 
-For your convenience, we provide you with a list of example print-on-demand services. Please note that we did not test the listed services, we do not endorse those brands, and we don't receive commission for referral.
+A1 format is 594 x 841 mm (23.4 x 33.1 inches)
+
+A0 format is 841 x 1189 mm (33.1 x 46.8 inches)
 
 
 ## Contributing
