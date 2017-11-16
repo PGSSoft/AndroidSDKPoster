@@ -4,7 +4,7 @@
 
 A wall poster with a detailed changelog of Android SDK versions 14-27, broken down into 30 categories. 
 
-[![Click to see large preview](https://github.com/pgssoft/AndroidSDKPoster/blob/master/media/biga0small.jpg)](https://github.com/pgssoft/AndroidSDKPoster/blob/master/media/biga0.jpg)
+[![Click to see large preview](https://github.com/pgssoft/AndroidSDKPoster/blob/master/media/biga0small.jpg)](https://raw.githubusercontent.com/PGSSoft/AndroidSDKPoster/master/media/biga0.jpg)
 
 With this poster near your desk, you can tell in seconds which SDK step counter sensor was introduced, when the Camera2 API debuted, or what the second meaning of the "Daydream" codename is (apart from the VR framework). You can find and confirm all of that data in an online documentation, but it will take you minutes instead of seconds.
 
@@ -14,9 +14,9 @@ The poster is provided for free by PGS Software, a Polish IT outsourcing company
 ## Download:
 
 
-[PDF with 2 x A1 sheets, portrait (594 x 841mm)](https://github.com/pgssoft/AndroidSDKPoster/poster_current_a1.pdf)
+[PDF with 2 x A1 sheets, portrait (594 x 841mm)](https://github.com/PGSSoft/AndroidSDKPoster/raw/master/poster_current_a1.pdf)
 
-[PDF with 1 x A0 sheet, landscape (1189 x 841mm)](https://github.com/pgssoft/AndroidSDKPoster/poster_current_a0.pdf)
+[PDF with 1 x A0 sheet, landscape (1189 x 841mm)](https://github.com/PGSSoft/AndroidSDKPoster/raw/master/poster_current_a0.pdf)
 
 
 ## Where to print?
